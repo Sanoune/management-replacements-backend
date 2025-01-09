@@ -73,3 +73,4 @@ D:\ProjetC\MyWebAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
 D:\ProjetC\MyWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
 D:\ProjetC\MyWebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
 D:\ProjetC\MyWebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\ProjetC\MyWebAPI\obj\Debug\net8.0\MyWebAPI.sourcelink.json
